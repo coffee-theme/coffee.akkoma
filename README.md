@@ -2,4 +2,4 @@
 
 > Akkoma (fedi) coffee theme
 
-![Akkome (fedi) coffee theme screenshot](https://github.com/coffee-theme/coffee.akkoma/assets/71613062/7458fc7a-4e18-4b19-ba0c-112684d32a1c)
+![Akkoma (fedi) coffee theme screenshot](https://github.com/coffee-theme/coffee.akkoma/assets/71613062/42a3a8a5-7500-474f-88f5-aa1638498631)
