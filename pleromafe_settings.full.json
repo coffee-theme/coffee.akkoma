@@ -1,6 +1,6 @@
 {
   "profile": "default",
-  "profileVersion": 16,
+  "profileVersion": 17,
   "expertLevel": 0,
   "colors": {},
   "customTheme": {
@@ -389,6 +389,7 @@
   "interfaceLanguage": "en",
   "hideScopeNotice": true,
   "useStreamingApi": false,
+  "postContentType": "text/markdown",
   "modalOnUnfollow": true,
   "modalOnDelete": true,
   "modalOnApproveFollow": true,
