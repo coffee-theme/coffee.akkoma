@@ -1,6 +1,6 @@
 {
   "profile": "default",
-  "profileVersion": 15,
+  "profileVersion": 16,
   "expertLevel": 0,
   "colors": {},
   "customTheme": {
@@ -402,7 +402,7 @@
   "mentionLinkShowAvatar": true,
   "conversationDisplay": "tree",
   "supportedTranslationLanguages": {},
-  "userProfileDefaultTab": "statuses",
+  "userProfileDefaultTab": "replies",
   "useBlurhash": true,
   "_pleroma_settings_version": [
     1,
